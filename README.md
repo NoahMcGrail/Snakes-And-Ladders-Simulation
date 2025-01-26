@@ -1,6 +1,4 @@
 # Snakes-And-Ladders-Simulation
-
-# Goose Game Simulation
 Based on [Snakes and Ladders](https://toytheater.com/snakes-and-ladders.php)
 
 **How To Use**
